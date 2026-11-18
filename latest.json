@@ -1,0 +1,9 @@
+{
+  "versionName": "1.0.0",
+  "versionCode": 10000,
+  "package": "br.go.goianesia.transportesanitario.lite",
+  "apkUrl": "https://github.com/elciofsampaio-web/transporte-sanitario-lite-releases/raw/main/Transporte-Sanitario-Lite.apk",
+  "sha256": "d2642655025d916afd936e2356d4d189445bc3284a8c97a7c60a16db1a3f2d47",
+  "certSha256": "5bf9af773363da523e66a28c73c13f206fd76e4309d452618ac1b6264eb21108",
+  "notes": "Primeira versão de teste: Ficha do Paciente, Checklist Sanitária e Checklist SAMU. Funciona sem internet. Não substitui o aplicativo original."
+}

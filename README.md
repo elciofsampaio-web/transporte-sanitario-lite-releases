@@ -4,9 +4,13 @@ Catálogo público do APK. **Sem código-fonte e sem dados de pacientes.**
 
 ## Link para baixar (envie este)
 
-https://github.com/elciofsampaio-web/transporte-sanitario-lite-releases/releases/latest/download/Transporte-Sanitario-Lite.apk
+https://github.com/elciofsampaio-web/transporte-sanitario-lite-releases/raw/main/Transporte-Sanitario-Lite.apk
 
-Página da versão: https://github.com/elciofsampaio-web/transporte-sanitario-lite-releases/releases/latest
+Versão atual: **1.0.0** (versionCode 10000) · Android 6.0 ou superior.
+
+Conferência do arquivo (`SHA256.txt`):
+- SHA-256 do APK: `d2642655025d916afd936e2356d4d189445bc3284a8c97a7c60a16db1a3f2d47`
+- Certificado de assinatura (SHA-256): `5bf9af773363da523e66a28c73c13f206fd76e4309d452618ac1b6264eb21108`
 
 ## Instalar
 
